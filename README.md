@@ -9,7 +9,7 @@ Currently iOS Developer @ [Dev-id](https://dev-id.fr), 5th-year student at [Epit
 ## 🛠️ Tech Stack
 
 **Mobile:** Swift · SwiftUI · Flutter · KMM · Jetpack Compose  
-**Web:** TypeScript · SvelteKit · Angular · Tailwind CSS  
+**Web:** TypeScript · SvelteKit · React · Tailwind CSS  
 **Backend:** C# · SQL · Node.js  
 **Tools:** Xcode · Zed · Ghostty · Figma  
 
