@@ -25,7 +25,7 @@ Currently Web & iOS Developer @ [Dev-id](https://dev-id.fr), 5th-year student at
 | **[Savy](https://github.com/Savy-EIP/IOS-Mobile-Savy)** | AI-powered language learning app | SwiftUI · SvelteKit · Figma |
 | **[Delcard](https://delcard.fun)** | P2P card & dice games via WebRTC | SvelteKit · Tailwind · WebRTC |
 | **[LeagueLab](https://leaguelab.app)** | Sports league simulation engine | SvelteKit · Tailwind |
-| **[Locus](https://github.com/LucaDeltort/locus)** | A fast, open-source tool for managing iOS/macOS localization files | Rust |
+| **[Locus](https://github.com/LucaDeltort/locus)** | A fast, open-source tool for managing iOS/macOS localization files | Rust · SwiftUI |
 | **[Egofolio](https://github.com/LucaDeltort/egofolio)** | My portfolio website | SvelteKit · Tailwind |
 
 ---
