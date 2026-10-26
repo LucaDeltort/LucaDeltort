@@ -2,7 +2,7 @@
 
 **Web & iOS Developer** based in Toulouse, France 🇫🇷
 
-Currently Web & iOS Developer @ [Dev-id](https://dev-id.fr), 5th-year student at [Epitech](https://www.epitech.eu/) Toulouse, after an exchange year at [CSULB](https://www.csulb.edu/) (Long Beach, CA).
+Currently Web & iOS Developer @ [Dev-id](https://dev-id.fr), [Epitech](https://www.epitech.eu/) graduate (Class of 2026), after an exchange year at [CSULB](https://www.csulb.edu/) (Long Beach, CA).
 
 ---
 
