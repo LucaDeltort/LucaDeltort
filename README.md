@@ -18,17 +18,17 @@ Currently Web & iOS Developer @ [Dev-id](https://dev-id.fr), [Epitech](https://w
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Vox Chat](https://apps.apple.com/fr/app/vox-chat-par-oreus-ai/id6752886578)** | AI chat app for Oreus, a French sovereign AI platform | SwiftUI |
-| **[Alpine Telemetrics](https://apps.apple.com/fr/app/alpine-telemetrics-mobile/id6523429088)** | Official companion app for Alpine connected cars | SwiftUI |
-| **[Stade Toulousain](https://apps.apple.com/fr/app/stade-toulousain/id1090446927)** | Official app for Stade Toulousain rugby club | SwiftUI · KMM · Compose |
-| **[Savy](https://github.com/Savy-EIP/IOS-Mobile-Savy)** | AI-powered language learning app | SwiftUI · SvelteKit · Figma |
-| **[Delcard](https://delcard.fun)** | P2P card & dice games via WebRTC | SvelteKit · Tailwind · WebRTC |
-| **[Onzatro](https://onzatro.com)** | Arcade football manager in browser | SvelteKit · Tailwind |
-| **[LeagueLab](https://leaguelab.app)** | Sports league simulation engine | SvelteKit · Tailwind · Rust |
-| **[Locus](https://github.com/LucaDeltort/locus)** | A fast, open-source tool for managing iOS/macOS localization files | Rust · SwiftUI |
-| **[Egofolio](https://github.com/LucaDeltort/egofolio)** | My portfolio website | SvelteKit · Tailwind |
+| Project | Description | Tech | Type |
+|---------|-------------|------|------|
+| **[Vox Chat](https://apps.apple.com/fr/app/vox-chat-par-oreus-ai/id6752886578)** | AI chat app for Oreus, a French sovereign AI platform | SwiftUI | Work |
+| **[Alpine Telemetrics](https://apps.apple.com/fr/app/alpine-telemetrics-mobile/id6523429088)** | Official companion app for Alpine connected cars | SwiftUI | Work |
+| **[Stade Toulousain](https://apps.apple.com/fr/app/stade-toulousain/id1090446927)** | Official app for Stade Toulousain rugby club | SwiftUI · KMM · Compose | Work |
+| **[Savy](https://github.com/Savy-EIP/IOS-Mobile-Savy)** | AI-powered language learning app | SwiftUI · SvelteKit · Figma | School |
+| **[Delcard](https://delcard.fun)** | P2P card & dice games via WebRTC | SvelteKit · Tailwind · WebRTC | Perso |
+| **[Onzatro](https://onzatro.com)** | Arcade football manager in browser | SvelteKit · Tailwind | Perso |
+| **[LeagueLab](https://leaguelab.app)** | Sports league simulation engine | SvelteKit · Tailwind · Rust | Perso |
+| **[Locus](https://github.com/LucaDeltort/locus)** | A fast, open-source tool for managing iOS/macOS localization files | Rust · SwiftUI | Perso |
+| **[Egofolio](https://github.com/LucaDeltort/egofolio)** | My portfolio website | SvelteKit · Tailwind | Perso |
 
 ---
 
