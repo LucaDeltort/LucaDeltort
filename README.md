@@ -10,8 +10,8 @@ Currently Web & iOS Developer @ [Dev-id](https://dev-id.fr), [Epitech](https://w
 
 **Mobile:** Swift · SwiftUI · Flutter · KMM · Jetpack Compose  
 **Web:** TypeScript · SvelteKit · React · Tailwind CSS  
-**Backend:** NestJS · C# · SQL · Node.js
-**Others:** Rust · Python · C · C++
+**Backend:** NestJS · C# · SQL · Node.js  
+**Others:** Rust · Python · C · C++  
 **Tools:** Xcode · Zed · Ghostty · Figma  
 
 ---
