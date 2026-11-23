@@ -28,6 +28,7 @@ Currently Web & iOS Developer @ [Dev-id](https://dev-id.fr), [Epitech](https://w
 | **[Onzatro](https://onzatro.com)** | Arcade football manager in browser | SvelteKit · Tailwind | Perso |
 | **[LeagueLab](https://leaguelab.app)** | Sports league simulation engine | SvelteKit · Tailwind · Rust | Perso |
 | **[Locus](https://github.com/LucaDeltort/locus)** | A fast, open-source tool for managing iOS/macOS localization files | Rust · SwiftUI | Perso |
+| **[Drone-rust](https://github.com/LucaDeltort/drone-rust)** | Autonomous drone simulator | Rust | Perso |
 | **[Egofolio](https://github.com/LucaDeltort/egofolio)** | My portfolio website | SvelteKit · Tailwind | Perso |
 
 ---
